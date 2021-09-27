@@ -1,0 +1,12 @@
+def SimultaneousEquation():
+    a=float(input("Enter a"))
+    b=float(input("Enter b"))
+    c=float(input("Enter c"))
+    d=float(input("Enter d"))
+    m=float(input("Enter m"))
+    n=float(input("Enter n"))
+    x=(d*m - b*n)/(d*a-b*c)
+    y=(c*m-a*n)/(c*b-a*d)
+    print("x:",x)
+    print("y:",y)
+SimultaneousEquation()

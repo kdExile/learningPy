@@ -1,0 +1,29 @@
+
+The Book Thief, Markus Zusak, Historical Fiction, 800.0, 5
+Pride and Prejudice, Jane Austen, Fiction, 700.0, 10
+The Alchemist, Paulo Coelho, Adventure Fiction, 700.0, 7
+And Then There Were None, Agatha Christie, Crime Novel, 550.0, 2
+The Burden, Mary Westmacott, Thriller, 600.0, 10
+The BFG, Roald Dahl, Fantasy, 500.0, 5
+Charlie and the Chocolate Factory, Roald Dahl, Fantasy, 500.0, 1
+The Blue Umbrella, Ruskin Bond, Fiction, 600.0, 10
+The Da Vinci Code, Dan Brown, Thriller, 700.0, 10
+The Diary Of A Young Girl, Anne Frank, Non-fiction, 800.0, 1
+The Secret Seven Collection, Enid Blyton, Detective Fiction, 8500.0, 2
+Julius Caesar, William Shakespeare, Historical Drama, 1000.0, 5
+Harry Potter And The Order Of The Phoenix, J.K.Rowling, Fantasy, 900.0, 3
+The Adventures of Tom Sawyer, Mark Twain, Children's literature, 510.0, 12
+The Adventures of Sherlock Holmes, Arthur Conan Doyle, Detective, 1000.0, 4
+The Wonderful Wizard of Oz, L. Frank Baum, Fantasy, 450.0, 9
+The Lord of the Rings, J. R. R. Tolkien, Fantasy, 600.0, 8
+Hamlet, William Shakespeare, Drama, 600.0, 12
+Gitanjali, Rabindranath Tagore, Poems, 1500.0, 3
+The Malgudi Days, R.K.Narayan, Short story collection, 600.0, 5
+Death On The Nile, Agatha Christie, Detective, 550.0,1
+Murder On the Orient Express, Agatha Christie, Detective, 550.0, 5
+Murder in Mesopotamia, Agatha Christie, Detective, 550.0, 7
+The English Teacher, R.K.Narayan, Short story collection, 600.0, 10
+Matilda, Roald Dahl, Fantasy, 500.0, 3
+Angels and Demons, Dan Brown, Thriller, 700.0, 3
+Inferno, Dan Brown, Thriller, 700.0, 5
+
